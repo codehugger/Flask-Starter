@@ -3,8 +3,6 @@ Flask-Starter
 
 A small skeleton to use when starting a new Flask application
 
-The layout and code in this project is heavily influenced by projects like Fbone (https://github.com/imwilsonxu/fbone) and Flask-Empty (https://github.com/italomaia/flask-empty).
-
 Why?
 ----
 
