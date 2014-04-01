@@ -1,0 +1,5 @@
+recursive-include tests *
+recursive-exclude tests *.pyc
+recursive-exclude tests *.pyo
+recursive-include myapp/static *
+recursive-include myapp/templates *
