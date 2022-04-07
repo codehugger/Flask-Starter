@@ -25,7 +25,7 @@ setup(
         'Jinja2==2.7.2',
         'Mako==0.9.1',
         'MarkupSafe==0.19',
-        'SQLAlchemy==0.9.4',
+        'SQLAlchemy==1.3.0',
         'Werkzeug==0.9.4',
         'alembic==0.6.4',
         'itsdangerous==0.24',
