@@ -26,7 +26,7 @@ setup(
         'Mako==0.9.1',
         'MarkupSafe==0.19',
         'SQLAlchemy==1.3.0',
-        'Werkzeug==0.9.4',
+        'Werkzeug==0.15.3',
         'alembic==0.6.4',
         'itsdangerous==0.24',
         'wsgiref==0.1.2',
