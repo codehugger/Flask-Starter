@@ -1,0 +1,195 @@
+repo_name: codehugger/Flask-Starter
+report_id: b031f6b52cb725ee26ffc67b23c16c4a
+repo_type: Public
+timestamp: '2023-11-09T13:37:12+00:00'
+requested_by: codehugger
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source: setup.py
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2014-04-01 13:17:27.000000000 Z
+- name: Mako
+  description: Template library written in Python
+  website_url: https://github.com/zzzeek/mako
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3583/default_43e3ee00dcc48a40f6fcba33551e4f5a99a10537.png
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  version: '1.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 10:23:27.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 10:34:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: setup.py
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2014-04-01 13:17:27.000000000 Z
+- name: Flask-Migrate
+  description: SQLAlchemy database migrations for Flask applications using Alembic
+  package_url: https://pypi.org/Flask-Migrate
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20329/default_cf6b540611cb9b9b5d016a661f54f50ad3400f1a.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 10:23:27.000000000 Z
+- name: Flask-SQLAlchemy
+  description: Adds SQLAlchemy support to your Flask application
+  package_url: https://pypi.org/Flask-SQLAlchemy
+  version: '1.0'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19941/default_aacb529ceff756b62765790d8d6787a041d514ff.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-07 10:34:30.000000000 Z
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/MarkupSafe
+  version: '0.19'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2014-04-01 13:17:27.000000000 Z
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/Werkzeug
+  version: 0.15.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-04-11 13:44:14.000000000 Z
+  vulnerabilities:
+  - name: High resource usage when parsing multipart form data with many fields
+    cve_id: CVE-2023-25577
+    cve_url: https://github.com/advisories/GHSA-xg9f-g7g7-2323
+    detected_date: Feb 16
+    severity: high
+    first_patched: 2.2.3
+  - name: Incorrect parsing of nameless cookies leads to __Host- cookies bypass
+    cve_id: CVE-2023-23934
+    cve_url: https://github.com/advisories/GHSA-px8h-6qxv-m22q
+    detected_date: Feb 16
+    severity: low
+    first_patched: 2.2.3
+- name: alembic
+  description: A database migration tool for SQLAlchemy
+  package_url: https://pypi.org/alembic
+  version: 0.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19961/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2014-04-01 13:17:27.000000000 Z
+- name: itsdangerous
+  description: Various helpers to pass data to untrusted environments and back
+  package_url: https://pypi.org/itsdangerous
+  version: '0.24'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19989/default_b1f1fc9c4c59a78443018e01395203ba8c61dcde.png
+  detection_source_url: setup.py
+  detection_source: setup.py
+  last_updated_by: Bjarki Gudlaugsson
+  last_updated_on: 2014-04-01 13:17:27.000000000 Z
