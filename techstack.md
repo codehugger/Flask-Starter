@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [codehugger/Flask-Starter](https://github.com/codehugger/Flask-Starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|14<br/>Tools used|01/05/24 <br/>Report generated|
+|16<br/>Tools used|01/11/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -121,14 +121,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (6)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (8)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (6)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[Flask-Migrate](https://pypi.org/project/Flask-Migrate)|v1.2.0|04/07/22|dependabot[bot] |MIT|N/A|
 |[Flask-SQLAlchemy](https://pypi.org/project/Flask-SQLAlchemy)|v1.0|04/07/22|dependabot[bot] |BSD-3-Clause|N/A|
+|[Flask-Script](https://pypi.org/project/Flask-Script)|v0.6.7|04/07/22|dependabot[bot] |BSD-3-Clause|N/A|
+|[Flask-Testing](https://pypi.org/project/Flask-Testing)|v0.4.1|04/07/22|dependabot[bot] |BSD-3-Clause|N/A|
 |[MarkupSafe](https://pypi.org/project/MarkupSafe)|v0.19|04/01/14|Bjarki Gudlaugsson |BSD-3-Clause|N/A|
 |[Werkzeug](https://pypi.org/project/Werkzeug)|v0.15.3|04/11/22|dependabot[bot] |BSD-3-Clause|[CVE-2023-25577](https://github.com/advisories/GHSA-xg9f-g7g7-2323) (High)<br/>[CVE-2023-23934](https://github.com/advisories/GHSA-px8h-6qxv-m22q) (Low)|
 |[alembic](https://pypi.org/project/alembic)|v0.6.4|04/01/14|Bjarki Gudlaugsson |MIT|N/A|
